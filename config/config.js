@@ -1,4 +1,6 @@
 const env = process.env;
+// console.log(env.DB_USERNAME);
+// console.log(env.DB_PASSWORD);
 
 module.exports = {
     development: {
